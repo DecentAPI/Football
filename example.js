@@ -23,7 +23,6 @@ const init = async () => {
 		let web3 = new Web3(new Web3.providers.WebsocketProvider('wss://rpc-mainnet.matic.network'));
 		const addresses = await web3_wallet.eth.getAccounts();
 
-
 		const requestContract = new web3_wallet.eth.Contract(RequestContract.abi, '0x92BE63778b96acEd0685d50D0a82812F8bAa1682');
 		const responseContract = new web3.eth.Contract(ResponseContract.abi, '0x80b62552575ca8b214A4e6a233388e3A9303239B');
 
