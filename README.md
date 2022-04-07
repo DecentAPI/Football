@@ -101,6 +101,7 @@ To use our oracle, you can try our example or simply use our Dapp.
 ## Usage
 
 Check Football fixtures, teams, leagues, coachs and venues and pin any data results on IPFS with the resulting CID on the Blockchain.
+The cost of each request is 0.01 Matic/Request.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
