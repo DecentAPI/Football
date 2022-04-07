@@ -56,10 +56,6 @@ This oracle is built with love thanks to:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Usage
-
-Check Football fixtures, teams, leagues, coachs and venues and pin any data results on IPFS with the resulting CID on the Blockchain.
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -118,8 +114,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-DecentAPI - [@tDecentAPI](https://twitter.com/decentapi) - contact@decentapi.com
+DecentAPI - [@DecentAPI](https://twitter.com/decentapi) - contact@decentapi.com
 
 Project Link: [https://github.com/decentapi/football](https://github.com/decentapi/football)
+
+Website: [https://www.decentapi.com/](https://www.decentapi.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
