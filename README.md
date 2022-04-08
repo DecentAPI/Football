@@ -42,7 +42,7 @@
 <!-- ABOUT THE Oracle -->
 ## About The Oracle
 
-This oracle is connected to the Polygon blockchain and uses the well-known and trusted <a href="https://www.api-football.com/">API-Football</a>. All the documentation provided is by API-Football is function with our oracle.
+This oracle is connected to the Polygon blockchain and uses the well-known and trusted <a href="https://www.api-football.com/">API-Football</a>. All the documentation provided is by API-Football is functional with our oracle.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
